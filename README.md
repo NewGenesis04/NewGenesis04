@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @NewGenesis04
-- 👀 I’m interested in Machine learning/Artificial Intelligence and Web Development. I'm also fascinated by Hacking and Cyber Security.
-- 🌱 I’m currently learning Python, HTML, CSS, and C++
+- 👀 I’m interested in Machine learning/Artificial Intelligence and Backend Development. I'm also fascinated by Cyber Security.
+- 🌱 My skills include SQL, Python, Excel and Django
 - 💞️ I’m looking to collaborate on new projects that help develop my tech skills
 - 📫 How to reach me:-
-- Email: omoroseogie03@gmail.com
 - LinkedIn: Ogie Omorose
 
 <!---
