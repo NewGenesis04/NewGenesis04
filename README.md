@@ -22,6 +22,7 @@ Got a cool idea? Want to build something useful? Or geek out over system design?
 
 ## 📫 Reach Me
 - 💼 [LinkedIn – Ogie Omorose](https://www.linkedin.com/in/ogie-omorose/)
+- ✉️ [Email - newgenesis04@gmail.com](mailto:newgenesis04@gmail.com)
 - 📨 Open to messages, collabs, and interesting convos
 
 ---
