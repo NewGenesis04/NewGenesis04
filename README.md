@@ -9,8 +9,8 @@ I'm a curious builder with a thing for smart tech and deep systems. Whether it's
 
 ## 🔧 Tech I Use
 - **Languages**: Python (my go-to), SQL
-- **Frameworks**: Flask, FastAPI
-- **Tools**: Excel (yep, it's still powerful), Postman, Git, Docker
+- **Frameworks**: Flask, FastAPI, Agent Development Kit, Langchain, CrewAI
+- **Tools**: Excel (yep, it's still powerful), Postman, Git, Docker, Linux
 
 ## 🌱 Currently Learning
 - More advanced ML concepts (explainability, MLOps, all that jazz)
