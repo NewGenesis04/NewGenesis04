@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Ogie (aka @NewGenesis04)
 
-I'm a curious builder with a thing for smart tech and deep systems. Whether it's teaching machines how to think, building robust backends, or diving into cyber security rabbit holes — I'm all in.
+I'm a curious builder with a thing for smart tech and deep systems.Whether it’s teaching machines how to think, building robust systems, or exploring how data shapes decisions — I’m all in.
 
 ## 🧠 What I'm Into
 - 🤖 **Machine Learning & AI** – I love building stuff that *learns* and *adapts*.
