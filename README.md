@@ -3,19 +3,29 @@
 I'm a curious builder with a thing for smart tech and deep systems. Whether it's teaching machines how to think, building robust backends, or diving into cyber security rabbit holes — I'm all in.
 
 ## 🧠 What I'm Into
-- 🤖 **Machine Learning & AI** – Building stuff that *learns* and *adapts*.
-- 🛠 **Backend Development** – APIs, data pipelines, system architecture — the good stuff.
-- 🛡 **Cyber Security** – Because breaking things (legally) makes you better at protecting them.
-
+- 🤖 **Machine Learning & AI** – I love building stuff that *learns* and *adapts*.
+- 🛠 **Backend Development** – APIs, authentication, data pipelines, system architecture — the good stuff.
+- 📈 **Quantitative Development** – The art of weaving numbers, logic, and code into systems that see patterns, predict motion, and profit from precision.
+- 🌍 **Geographical Information Systems (GIS)** – Location intelligence, analysing spatial data, and visualising patterns that live in space and time.
 ## 🔧 Tech I Use
 - **Languages**: Python (my go-to), SQL
-- **Frameworks**: Flask, FastAPI, Agent Development Kit, Langchain, CrewAI
-- **Tools**: Excel (yep, it's still powerful), Postman, Git, Docker, Linux
+- **Frameworks**: Flask, FastAPI, Agent Development Kit, Langchain, CrewAI, GeoPandas
+- **Tools**: Excel (yep, it's still powerful), Postman, Git, Docker, Linux, PostGIS, QuantConnect
+
+## 🔍 Projects
+Here are some of my highlighted repositories:
+
+- [Blog API](https://github.com/NewGenesis04/Blog-API): A clean, modular REST API for blogs, users, followers, and comments. Built with FastAPI and JWT auth.
+- [InventoryFlow](https://github.com/NewGenesis04/InventoryFlow): An inventory tracking system with smart restock alerts and analytics. Designed for real-world scalability and clarity.
+- [International Breweries](https://github.com/NewGenesis04/International-Breweries): A deep dive into brewery operations and production data, a complete SQL analysis.
+
+Feel free to explore these projects to see what I’ve been working on!
 
 ## 🌱 Currently Learning
 - More advanced ML concepts (explainability, MLOps, all that jazz)
+- Sharpening my quant chops — optimising portfolios, modelling risk, and finding the fine line between signal and noise (and profit).
+- Getting lost in advanced GIS — spatial analytics, geostatistics, and making maps that tell real stories with data.
 - Cloud architecture (hello AWS & GCP)
-- Security practices for production-grade apps
 
 ## 🤝 Let's Collaborate!
 Got a cool idea? Want to build something useful? Or geek out over system design? I’m down. Always looking for opportunities to learn by doing.
