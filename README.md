@@ -16,7 +16,7 @@ I'm a curious builder with a thing for smart tech and deep systems.Whether it’
 ## 🔍 Projects
 Here are some of my highlighted repositories:
 
-- [Blog API](https://github.com/NewGenesis04/Blog-API-Fast-API): A clean, modular REST API for blogs, users, followers, and comments. Built with FastAPI and JWT auth.
+- [Blog API](https://github.com/NewGenesis04/Blog-API-FastAPI): A clean, modular REST API for blogs, users, followers, and comments. Built with FastAPI and JWT auth.
 - [InventoryFlow](https://github.com/NewGenesis04/InventoryFlow): An inventory tracking system with smart restock alerts and analytics. Designed for real-world scalability and clarity.
 - [International Breweries](https://github.com/NewGenesis04/International-Breweries): A deep dive into brewery operations and production data, a complete SQL analysis.
 
