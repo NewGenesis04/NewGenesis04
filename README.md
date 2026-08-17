@@ -19,6 +19,9 @@ Here are some of my highlighted repositories:
 - [Blog API](https://github.com/NewGenesis04/Blog-API-FastAPI): A clean, modular REST API for blogs, users, followers, and comments. Built with FastAPI and JWT auth.
 - [InventoryFlow](https://github.com/NewGenesis04/InventoryFlow): An inventory tracking system with smart restock alerts and analytics. Designed for real-world scalability and clarity.
 - [International Breweries](https://github.com/NewGenesis04/International-Breweries): A deep dive into brewery operations and production data, a complete SQL analysis.
+- [Stash](https://github.com/NewGenesis04/Stash): A local-first agent that reorganises your filesystem from plain-English instructions. 
+- [Lexi](https://github.com/NewGenesis04/NEO_SCRABBLE): A full-stack Scrabble implementation built because every existing option was either dated, overdesigned, or just bad at being a word game.
+- [BAYSE_SDK](https://github.com/NewGenesis04/BAYSE_SDK): A fully typed async Python SDK for the Bayse Markets prediction-market API, covering the full order lifecycle (place, batch, amend, cancel), portfolio, wallet, and market-maker/rewards endpoints.
 
 Feel free to explore these projects to see what I’ve been working on!
 
